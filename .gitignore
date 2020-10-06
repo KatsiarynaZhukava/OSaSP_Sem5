@@ -1,4 +1,7 @@
-Debug/
+**/Debug
+**/x64
+.idea/
+.vs/
 *.aps
 *.filters
 *.user
